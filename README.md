@@ -7,12 +7,12 @@ Require:
 Tensorflow 2.4.1  
 numpy 1.19.5  
 Python 3.7.6  
-=====================
+
 
 Run：
 =====================
 train.py
-=====================
+
 
 The reults are saved in the following files:
 =====================
@@ -20,7 +20,7 @@ Discriminator weight: model/ind/D_weight
 Generator weight: model/ind/G_weight  
 Training losses: model/ind/log  
 translation results: model/ind/result  
-=====================
+
 
 Discriminator weight and Generator weight are saved every 20 epochs  
 Training losses are saved every 1 epoch  
