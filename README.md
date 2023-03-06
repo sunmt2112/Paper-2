@@ -26,5 +26,5 @@ Discriminator weight and Generator weight are saved every 20 epochs
 Training losses are saved every 1 epoch  
 translation results are saved every 10 epochs  
 
-This model gets good performance in 500 epochs  
-Pretrained results have been saved in model/ind  
+This model gets good performance from 500 epochs  
+Pretrained results have been saved in model/ind/result  
