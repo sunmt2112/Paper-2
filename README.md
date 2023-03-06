@@ -1,6 +1,6 @@
 # Paper-2
 
-This is a neural machine translation project from Indonesian to English translation, using the method in Paper: <Machine Translation in Low-Resource Languages by an Adversarial Neural Network.>
+This is a neural machine translation project from Indonesian to English translation, using the method in Paper: Machine Translation in Low-Resource Languages by an Adversarial Neural Network.
 
 Require:
 =====================
