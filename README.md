@@ -5,9 +5,9 @@ using the method in Paper: <Machine Translation in Low-Resource Languages by an 
 
 Require:
 =====================
-Tensorflow 2.4.1
-numpy 1.19.5
-Python 3.7.6
+  Tensorflow 2.4.1
+  numpy 1.19.5
+  Python 3.7.6
 =====================
 
 Run：
